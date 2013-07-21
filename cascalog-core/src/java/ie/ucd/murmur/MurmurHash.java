@@ -12,6 +12,8 @@ package ie.ucd.murmur;
  * 
  * Public domain.
  * 
+ * http://d3s.mff.cuni.cz/~holub/sw/javamurmurhash/
+ *
  * @author Viliam Holub
  * @version 1.0.2
  *
